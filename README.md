@@ -11,10 +11,6 @@ Follow the [Ollama documentation](https://ollama.ai) to install and configure it
 
 ### 2. Set Up Python Environment
 - Install Python (version 3.8 or higher recommended).
-- Install required dependencies:
-  ```bash
-  pip install requests
-  ```
 
 ### 3. Clone the Repository
 Clone this repository to your local machine:
